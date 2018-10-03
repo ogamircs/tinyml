@@ -1,0 +1,7 @@
+Following people helped in development of tinyml:
+
+Main developer(s):
+amircs
+
+contributor(s):
+
